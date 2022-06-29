@@ -1,0 +1,15 @@
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#TSK4\bin\Debug\net6.0\HWC#TSK4.exe
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#TSK4\bin\Debug\net6.0\HWC#TSK4.deps.json
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#TSK4\bin\Debug\net6.0\HWC#TSK4.runtimeconfig.json
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#TSK4\bin\Debug\net6.0\HWC#TSK4.dll
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#TSK4\bin\Debug\net6.0\HWC#TSK4.pdb
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#TSK4\obj\Debug\net6.0\HWC#TSK4.csproj.AssemblyReference.cache
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#TSK4\obj\Debug\net6.0\HWC#TSK4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#TSK4\obj\Debug\net6.0\HWC#TSK4.AssemblyInfoInputs.cache
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#TSK4\obj\Debug\net6.0\HWC#TSK4.AssemblyInfo.cs
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#TSK4\obj\Debug\net6.0\HWC#TSK4.csproj.CoreCompileInputs.cache
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#TSK4\obj\Debug\net6.0\HWC#TSK4.dll
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#TSK4\obj\Debug\net6.0\refint\HWC#TSK4.dll
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#TSK4\obj\Debug\net6.0\HWC#TSK4.pdb
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#TSK4\obj\Debug\net6.0\HWC#TSK4.genruntimeconfig.cache
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#TSK4\obj\Debug\net6.0\ref\HWC#TSK4.dll
