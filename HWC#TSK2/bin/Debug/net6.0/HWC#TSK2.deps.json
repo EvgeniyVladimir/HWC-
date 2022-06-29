@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HWC#TSK2/1.0.0": {
+        "runtime": {
+          "HWC#TSK2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HWC#TSK2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
