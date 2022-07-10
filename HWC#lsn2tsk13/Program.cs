@@ -9,13 +9,14 @@
             int number = Convert.ToInt32(Console.ReadLine());
             string str = number.ToString();
             
-            char ch = str[2];
-            if (ch != null)
+            if (str.Length > 1)
             {
-                Console.WriteLine($"третьей цифры нет");
+                Console.WriteLine(str[2]);
             }
-            Console.WriteLine(ch);
-           
+            if (str.Length < 1)
+            {
+                Console.WriteLine("третьей цифры нет");
+            }
         }
     }
 }
