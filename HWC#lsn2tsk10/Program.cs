@@ -8,8 +8,8 @@
             Console.WriteLine("Введите трехзначное число: ");
             int number = Convert.ToInt32(Console.ReadLine());
             string str = number.ToString();
-            char ch = str[1];
-            Console.WriteLine(ch);
+            // char ch = str[1];
+            Console.WriteLine(str[1]);
         }
     }
 }
