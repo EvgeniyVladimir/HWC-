@@ -13,7 +13,7 @@
             {
                 Console.WriteLine(str[2]);
             }
-            if (str.Length < 1)
+            if (str.Length < 2)
             {
                 Console.WriteLine("третьей цифры нет");
             }
