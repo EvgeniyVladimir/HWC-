@@ -1,0 +1,15 @@
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#lsn3tsk19\bin\Debug\net6.0\HWC#lsn3tsk19.exe
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#lsn3tsk19\bin\Debug\net6.0\HWC#lsn3tsk19.deps.json
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#lsn3tsk19\bin\Debug\net6.0\HWC#lsn3tsk19.runtimeconfig.json
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#lsn3tsk19\bin\Debug\net6.0\HWC#lsn3tsk19.dll
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#lsn3tsk19\bin\Debug\net6.0\HWC#lsn3tsk19.pdb
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#lsn3tsk19\obj\Debug\net6.0\HWC#lsn3tsk19.csproj.AssemblyReference.cache
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#lsn3tsk19\obj\Debug\net6.0\HWC#lsn3tsk19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#lsn3tsk19\obj\Debug\net6.0\HWC#lsn3tsk19.AssemblyInfoInputs.cache
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#lsn3tsk19\obj\Debug\net6.0\HWC#lsn3tsk19.AssemblyInfo.cs
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#lsn3tsk19\obj\Debug\net6.0\HWC#lsn3tsk19.csproj.CoreCompileInputs.cache
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#lsn3tsk19\obj\Debug\net6.0\HWC#lsn3tsk19.dll
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#lsn3tsk19\obj\Debug\net6.0\refint\HWC#lsn3tsk19.dll
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#lsn3tsk19\obj\Debug\net6.0\HWC#lsn3tsk19.pdb
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#lsn3tsk19\obj\Debug\net6.0\HWC#lsn3tsk19.genruntimeconfig.cache
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\HWC#\HWC#lsn3tsk19\obj\Debug\net6.0\ref\HWC#lsn3tsk19.dll
