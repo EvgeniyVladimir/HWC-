@@ -19,9 +19,9 @@
             }
         }
 
-        public static void PrintCube(int a)
+        public static void PrintCube(int n)
         {
-            Console.WriteLine(Math.Pow(a,3));
+            Console.WriteLine(Math.Pow(n,3));
         }
     }
 }
