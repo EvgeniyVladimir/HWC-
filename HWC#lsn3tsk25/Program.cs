@@ -14,9 +14,9 @@ namespace NomeWorkTask25
             Console.WriteLine("Введите второе число");
             int b = Convert.ToInt32(Console.ReadLine());
             // Console.WriteLine(Math.Pow(a,b));
-            int count = b;
+            // int count = b;
             int number = a;
-            for (int i = 1; i < count; i++)
+            for (int i = 1; i < b; i++)
             {
                 number = number * a;
             }
